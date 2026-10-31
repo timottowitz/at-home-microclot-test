@@ -96,3 +96,7 @@ The mail-in screening workflow is engineered to eliminate barriers for patients 
 3. **Grobbelaar, L. M., et al. (2021).** *"SARS-CoV-2 spike protein S1 induces fibrin(ogen) resistant to fibrinolysis: Implications for microclot formation in COVID-19."* Bioscience Reports, 41(8), BSR20210611.
 4. **Turner, S., et al. (2023).** *"Long COVID: pathophysiological mechanisms and therapeutic opportunities."* Nature Reviews Microbiology, 21(3), 139-158.
 5. **Nyström, S., & Hammarström, P. (2022).** *"Amyloidogenesis of SARS-CoV-2 Spike Protein."* JACS, 144(20), 8946-8950.
+
+---
+
+See also: [Microclot testing: what it costs and how to get it](https://timottowitz.github.io/at-home-microclot-test/cost-and-access/) and the [full cost and access index](https://amyloid-test.com/resources/microclot-testing-access-cost-index/).
